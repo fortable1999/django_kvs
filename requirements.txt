@@ -1,0 +1,10 @@
+amqp==1.4.7
+anyjson==0.3.3
+billiard==3.3.0.20
+celery==3.1.18
+dj-database-url==0.3.0
+Django==1.8.5
+gunicorn==19.3.0
+kombu==3.0.28
+psycopg2==2.6.1
+pytz==2015.6
